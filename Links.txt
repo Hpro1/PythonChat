@@ -1,0 +1,5 @@
+The audio in this youtube video is pretty bad. I recorded the audio using remote control to my home PC, as my laptop does not have the power to record smoothly. If the video is extremely unclear, I can record it again when I'm home, if needed.
+
+Youtube: https://www.youtube.com/watch?v=8VpKF16PCms
+
+GitHub: https://github.com/Hpro1/PythonChat
